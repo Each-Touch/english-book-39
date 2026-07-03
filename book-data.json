@@ -1,0 +1,916 @@
+{
+  "passageNumber": 39,
+  "title": "Life in Space",
+  "units": [
+    "第一单元 开始",
+    "第二单元 发展",
+    "第三单元 结尾"
+  ],
+  "pages": [
+    {
+      "image": "assets/images/00.png",
+      "en": "Life in Space",
+      "cn": "第 39 篇",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/01.png",
+      "en": "Life in space is much different from life on the earth.",
+      "cn": "太空生活与地球上的生活很不一样。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/02.png",
+      "en": "How do astronauts live in space?",
+      "cn": "宇航员怎样在太空中生活呢？",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/03.png",
+      "en": "Many years ago, astronauts could eat only small pieces of dried food.",
+      "cn": "许多年前，宇航员只能吃小块的干粮。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/04.png",
+      "en": "But now astronauts are able to eat more everyday food like fruit, vegetables and ice cream.",
+      "cn": "但是现在，宇航员能够吃更多日常食物，比如水果、蔬菜和冰激凌。",
+      "unit": 1
+    },
+    {
+      "image": "assets/images/05.png",
+      "en": "All the people in space have their own rooms.",
+      "cn": "太空中的所有人都有自己的房间。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/06.png",
+      "en": "They have to tie themselves to their beds or toilets, or they'll fly away!",
+      "cn": "他们必须把自己系在床上或马桶上，否则就会飞走！",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/07.png",
+      "en": "That seems like a strange way to sleep, but astronauts say it really isn't too bad.",
+      "cn": "那看起来像是一种奇怪的睡觉方式，但宇航员说其实并不太糟。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/08.png",
+      "en": "Astronauts can read books, play cards, listen to music or send emails to their friends and families when they aren't working.",
+      "cn": "宇航员不工作时，可以读书、打牌、听音乐，或给朋友和家人发电子邮件。",
+      "unit": 2
+    },
+    {
+      "image": "assets/images/09.png",
+      "en": "Sometimes they just sit and look out of the spaceship.",
+      "cn": "有时他们只是坐着向宇宙飞船外看。",
+      "unit": 3
+    },
+    {
+      "image": "assets/images/10.png",
+      "en": "Astronauts are hard-working whether in space or on the earth.",
+      "cn": "无论在太空还是在地球上，宇航员都很勤奋。",
+      "unit": 3
+    },
+    {
+      "image": "assets/images/11.png",
+      "en": "Though the work is sometimes difficult, they are still interested in it and love their jobs.",
+      "cn": "虽然工作有时很困难，但他们仍然对它感兴趣并热爱自己的工作。",
+      "unit": 3
+    },
+    {
+      "image": "assets/images/12.png",
+      "en": "Many people agree that astronauts' lives are very interesting and they dream of becoming astronauts.",
+      "cn": "许多人同意宇航员的生活非常有趣，他们梦想成为宇航员。",
+      "unit": 3
+    }
+  ],
+  "dictionary": {
+    "a": {
+      "phonetic": "/ə/",
+      "translation": "一个；一"
+    },
+    "able": {
+      "phonetic": "/ˈeɪbl/",
+      "translation": "能够的",
+      "cardId": "core-004"
+    },
+    "ago": {
+      "phonetic": "/əˈɡəʊ/",
+      "translation": "以前",
+      "cardId": "core-001"
+    },
+    "agree": {
+      "phonetic": "/əˈɡriː/",
+      "translation": "同意",
+      "cardId": "core-022"
+    },
+    "all": {
+      "phonetic": "/ɔl/",
+      "translation": "全部"
+    },
+    "and": {
+      "phonetic": "/ænd/",
+      "translation": "和"
+    },
+    "are": {
+      "phonetic": "/ər/",
+      "translation": "是"
+    },
+    "arent": {
+      "phonetic": "/ˈɑrənt/",
+      "translation": "阿伦特"
+    },
+    "astronauts": {
+      "phonetic": "/ˈæstrəˌnɔts/",
+      "translation": "宇航员"
+    },
+    "away": {
+      "phonetic": "/əˈweɪ/",
+      "translation": "离开"
+    },
+    "bad": {
+      "phonetic": "/bæd/",
+      "translation": "坏的",
+      "cardId": "core-011"
+    },
+    "becoming": {
+      "phonetic": "/bɪˈkəmɪŋ/",
+      "translation": "成为"
+    },
+    "beds": {
+      "phonetic": "/bɛdz/",
+      "translation": "床"
+    },
+    "books": {
+      "phonetic": "/bʊks/",
+      "translation": "图书"
+    },
+    "but": {
+      "phonetic": "/bət/",
+      "translation": "但"
+    },
+    "can": {
+      "phonetic": "/kən/",
+      "translation": "能"
+    },
+    "card": {
+      "phonetic": "/kɑːd/",
+      "translation": "卡片；纸牌",
+      "cardId": "core-012"
+    },
+    "cards": {
+      "phonetic": "/kɑrdz/",
+      "translation": "牌"
+    },
+    "could": {
+      "phonetic": "/kʊd/",
+      "translation": "可以"
+    },
+    "cream": {
+      "phonetic": "/ˌaɪs ˈkriːm/",
+      "translation": "冰激凌",
+      "cardId": "core-006"
+    },
+    "different": {
+      "phonetic": "/ˈdɪfərənt/",
+      "translation": "不同的"
+    },
+    "difficult": {
+      "phonetic": "/ˈdɪfəkəlt/",
+      "translation": "难的"
+    },
+    "do": {
+      "phonetic": "/du/",
+      "translation": "做"
+    },
+    "dream": {
+      "phonetic": "/driːm/",
+      "translation": "梦想",
+      "cardId": "core-023"
+    },
+    "dried": {
+      "phonetic": "/draɪd/",
+      "translation": "干的"
+    },
+    "dry": {
+      "phonetic": "/draɪ/",
+      "translation": "干的",
+      "cardId": "core-003"
+    },
+    "earth": {
+      "phonetic": "/ərθ/",
+      "translation": "地球"
+    },
+    "eat": {
+      "phonetic": "/it/",
+      "translation": "吃"
+    },
+    "email": {
+      "phonetic": "/ˈiːmeɪl/",
+      "translation": "电子邮件",
+      "cardId": "core-016"
+    },
+    "emails": {
+      "phonetic": "/iˈmeɪlz/",
+      "translation": "电子邮件"
+    },
+    "everyday": {
+      "phonetic": "/ˈevrideɪ/",
+      "translation": "日常的",
+      "cardId": "core-005"
+    },
+    "families": {
+      "phonetic": "/ˈfæməliz/",
+      "translation": "家庭"
+    },
+    "fly": {
+      "phonetic": "/flaɪ/",
+      "translation": "飞"
+    },
+    "food": {
+      "phonetic": "/fud/",
+      "translation": "食物"
+    },
+    "friends": {
+      "phonetic": "/frɛndz/",
+      "translation": "朋友们"
+    },
+    "from": {
+      "phonetic": "/frʌm/",
+      "translation": "从"
+    },
+    "fruit": {
+      "phonetic": "/frut/",
+      "translation": "水果"
+    },
+    "hard": {
+      "phonetic": "/hɑrd/",
+      "translation": "难的"
+    },
+    "hard-working": {
+      "phonetic": "/ˌhɑːd ˈwɜːkɪŋ/",
+      "translation": "勤奋的",
+      "cardId": "core-018"
+    },
+    "have": {
+      "phonetic": "/hæv/",
+      "translation": "有"
+    },
+    "how": {
+      "phonetic": "/haʊ/",
+      "translation": "如何"
+    },
+    "ice": {
+      "phonetic": "/ˌaɪs ˈkriːm/",
+      "translation": "冰激凌",
+      "cardId": "core-006"
+    },
+    "ice-cream": {
+      "phonetic": "/ˌaɪs ˈkriːm/",
+      "translation": "冰激凌",
+      "cardId": "core-006"
+    },
+    "in": {
+      "phonetic": "/ɪn/",
+      "translation": "在……里"
+    },
+    "interested": {
+      "phonetic": "/ˈɪntrəstɪd/",
+      "translation": "感兴趣的",
+      "cardId": "core-021"
+    },
+    "interesting": {
+      "phonetic": "/ˈɪntəˌrɛstɪŋ/",
+      "translation": "有趣的"
+    },
+    "is": {
+      "phonetic": "/ɪz/",
+      "translation": "是"
+    },
+    "isnt": {
+      "phonetic": "/isnt/",
+      "translation": "不是"
+    },
+    "it": {
+      "phonetic": "/ɪt/",
+      "translation": "它"
+    },
+    "jobs": {
+      "phonetic": "/ʤɑbz/",
+      "translation": "职位"
+    },
+    "just": {
+      "phonetic": "/ʤɪst/",
+      "translation": "只是"
+    },
+    "life": {
+      "phonetic": "/laɪf/",
+      "translation": "生活"
+    },
+    "like": {
+      "phonetic": "/laɪk/",
+      "translation": "喜欢"
+    },
+    "listen": {
+      "phonetic": "/ˈlɪsn/",
+      "translation": "听",
+      "cardId": "core-013"
+    },
+    "live": {
+      "phonetic": "/lɪv/",
+      "translation": "居住"
+    },
+    "lives": {
+      "phonetic": "/lɪvz/",
+      "translation": "生活"
+    },
+    "look": {
+      "phonetic": "/lʊk/",
+      "translation": "看"
+    },
+    "love": {
+      "phonetic": "/ləv/",
+      "translation": "爱"
+    },
+    "many": {
+      "phonetic": "/ˈmɛni/",
+      "translation": "许多"
+    },
+    "more": {
+      "phonetic": "/mɔr/",
+      "translation": "更多的"
+    },
+    "much": {
+      "phonetic": "/məʧ/",
+      "translation": "很多"
+    },
+    "music": {
+      "phonetic": "/ˈmjuːzɪk/",
+      "translation": "音乐",
+      "cardId": "core-014"
+    },
+    "now": {
+      "phonetic": "/naʊ/",
+      "translation": "现在"
+    },
+    "of": {
+      "phonetic": "/əv/",
+      "translation": "……的"
+    },
+    "on": {
+      "phonetic": "/ɑːn/",
+      "translation": "在……上"
+    },
+    "only": {
+      "phonetic": "/ˈoʊnli/",
+      "translation": "仅有的"
+    },
+    "or": {
+      "phonetic": "/ɔːr/",
+      "translation": "或者"
+    },
+    "out": {
+      "phonetic": "/aʊt/",
+      "translation": "出去"
+    },
+    "own": {
+      "phonetic": "/əʊn/",
+      "translation": "自己的",
+      "cardId": "core-007"
+    },
+    "people": {
+      "phonetic": "/ˈpipəl/",
+      "translation": "人们"
+    },
+    "piece": {
+      "phonetic": "/piːs/",
+      "translation": "片；块",
+      "cardId": "core-002"
+    },
+    "pieces": {
+      "phonetic": "/ˈpisɪz/",
+      "translation": "件"
+    },
+    "play": {
+      "phonetic": "/pleɪ/",
+      "translation": "玩"
+    },
+    "read": {
+      "phonetic": "/rɛd/",
+      "translation": "读"
+    },
+    "really": {
+      "phonetic": "/ˈrɪli/",
+      "translation": "真的"
+    },
+    "rooms": {
+      "phonetic": "/rumz/",
+      "translation": "房间"
+    },
+    "say": {
+      "phonetic": "/seɪ/",
+      "translation": "说"
+    },
+    "seems": {
+      "phonetic": "/simz/",
+      "translation": "似乎"
+    },
+    "send": {
+      "phonetic": "/send/",
+      "translation": "发送",
+      "cardId": "core-015"
+    },
+    "sit": {
+      "phonetic": "/sɪt/",
+      "translation": "坐"
+    },
+    "sleep": {
+      "phonetic": "/slip/",
+      "translation": "睡觉"
+    },
+    "small": {
+      "phonetic": "/smɔl/",
+      "translation": "小的"
+    },
+    "sometimes": {
+      "phonetic": "/ˈsəmˌtaɪmz/",
+      "translation": "有时"
+    },
+    "space": {
+      "phonetic": "/speɪs/",
+      "translation": "空间"
+    },
+    "spaceship": {
+      "phonetic": "/ˈspeɪsʃɪp/",
+      "translation": "宇宙飞船",
+      "cardId": "core-017"
+    },
+    "still": {
+      "phonetic": "/stɪl/",
+      "translation": "仍然"
+    },
+    "strange": {
+      "phonetic": "/streɪnʤ/",
+      "translation": "奇怪的"
+    },
+    "that": {
+      "phonetic": "/ðət/",
+      "translation": "那"
+    },
+    "the": {
+      "phonetic": "/ðə/",
+      "translation": "这个；那个"
+    },
+    "their": {
+      "phonetic": "/ðɛr/",
+      "translation": "他们的"
+    },
+    "themselves": {
+      "phonetic": "/ðəmˈselvz/",
+      "translation": "他们自己",
+      "cardId": "core-009"
+    },
+    "they": {
+      "phonetic": "/ðeɪ/",
+      "translation": "他们；它们"
+    },
+    "theyll": {
+      "phonetic": "/theyll/",
+      "translation": "他们会"
+    },
+    "though": {
+      "phonetic": "/ðəʊ/",
+      "translation": "虽然",
+      "cardId": "core-020"
+    },
+    "tie": {
+      "phonetic": "/taɪ/",
+      "translation": "系；绑",
+      "cardId": "core-008"
+    },
+    "to": {
+      "phonetic": "/tuː/",
+      "translation": "到；向"
+    },
+    "toilet": {
+      "phonetic": "/ˈtɔɪlət/",
+      "translation": "马桶；厕所",
+      "cardId": "core-010"
+    },
+    "toilets": {
+      "phonetic": "/ˈtɔɪləts/",
+      "translation": "洗手间"
+    },
+    "too": {
+      "phonetic": "/tu/",
+      "translation": "也"
+    },
+    "vegetables": {
+      "phonetic": "/ˈvɛʤtəbəlz/",
+      "translation": "蔬菜"
+    },
+    "very": {
+      "phonetic": "/ˈvɛri/",
+      "translation": "非常"
+    },
+    "way": {
+      "phonetic": "/weɪ/",
+      "translation": "方式"
+    },
+    "when": {
+      "phonetic": "/wɪn/",
+      "translation": "什么时候"
+    },
+    "whether": {
+      "phonetic": "/ˈweðə(r)/",
+      "translation": "是否；不管",
+      "cardId": "core-019"
+    },
+    "work": {
+      "phonetic": "/wərk/",
+      "translation": "工作"
+    },
+    "working": {
+      "phonetic": "/ˈwərkɪŋ/",
+      "translation": "在职的"
+    },
+    "years": {
+      "phonetic": "/jɪrz/",
+      "translation": "年"
+    }
+  },
+  "coreCards": [
+    {
+      "id": "core-001",
+      "word": "ago",
+      "speak": "ago",
+      "phonetic": "/əˈɡəʊ/",
+      "meaning": "以前",
+      "memory": "ago → 以前",
+      "match": "ago",
+      "example": "Many years ago, astronauts could eat only small pieces of dried food. 许多年前，宇航员只能吃小块的干粮。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-002",
+      "word": "piece",
+      "speak": "piece",
+      "phonetic": "/piːs/",
+      "meaning": "片；块",
+      "memory": "piece → 片；块",
+      "match": "piece",
+      "example": "Life in space is much different from life on the earth. 太空生活与地球上的生活很不一样。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-003",
+      "word": "dry",
+      "speak": "dry",
+      "phonetic": "/draɪ/",
+      "meaning": "干的",
+      "memory": "dry → 干的",
+      "match": "dry",
+      "example": "Life in space is much different from life on the earth. 太空生活与地球上的生活很不一样。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-004",
+      "word": "able",
+      "speak": "able",
+      "phonetic": "/ˈeɪbl/",
+      "meaning": "能够的",
+      "memory": "able → 能够的",
+      "match": "able",
+      "example": "But now astronauts are able to eat more everyday food like fruit, vegetables and ice cream. 但是现在，宇航员能够吃更多日常食物，比如水果、蔬菜和冰激凌。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-005",
+      "word": "everyday",
+      "speak": "everyday",
+      "phonetic": "/ˈevrideɪ/",
+      "meaning": "日常的",
+      "memory": "everyday → 日常的",
+      "match": "everyday",
+      "example": "But now astronauts are able to eat more everyday food like fruit, vegetables and ice cream. 但是现在，宇航员能够吃更多日常食物，比如水果、蔬菜和冰激凌。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-006",
+      "word": "ice cream",
+      "speak": "ice cream",
+      "phonetic": "/ˌaɪs ˈkriːm/",
+      "meaning": "冰激凌",
+      "memory": "ice cream → 冰激凌",
+      "match": "ice cream",
+      "example": "But now astronauts are able to eat more everyday food like fruit, vegetables and ice cream. 但是现在，宇航员能够吃更多日常食物，比如水果、蔬菜和冰激凌。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-007",
+      "word": "own",
+      "speak": "own",
+      "phonetic": "/əʊn/",
+      "meaning": "自己的",
+      "memory": "own → 自己的",
+      "match": "own",
+      "example": "All the people in space have their own rooms. 太空中的所有人都有自己的房间。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-008",
+      "word": "tie",
+      "speak": "tie",
+      "phonetic": "/taɪ/",
+      "meaning": "系；绑",
+      "memory": "tie → 系；绑",
+      "match": "tie",
+      "example": "They have to tie themselves to their beds or toilets, or they'll fly away! 他们必须把自己系在床上或马桶上，否则就会飞走！",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-009",
+      "word": "themselves",
+      "speak": "themselves",
+      "phonetic": "/ðəmˈselvz/",
+      "meaning": "他们自己",
+      "memory": "themselves → 他们自己",
+      "match": "themselves",
+      "example": "They have to tie themselves to their beds or toilets, or they'll fly away! 他们必须把自己系在床上或马桶上，否则就会飞走！",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-010",
+      "word": "toilet",
+      "speak": "toilet",
+      "phonetic": "/ˈtɔɪlət/",
+      "meaning": "马桶；厕所",
+      "memory": "toilet → 马桶；厕所",
+      "match": "toilet",
+      "example": "Life in space is much different from life on the earth. 太空生活与地球上的生活很不一样。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-011",
+      "word": "bad",
+      "speak": "bad",
+      "phonetic": "/bæd/",
+      "meaning": "坏的",
+      "memory": "bad → 坏的",
+      "match": "bad",
+      "example": "That seems like a strange way to sleep, but astronauts say it really isn't too bad. 那看起来像是一种奇怪的睡觉方式，但宇航员说其实并不太糟。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-012",
+      "word": "card",
+      "speak": "card",
+      "phonetic": "/kɑːd/",
+      "meaning": "卡片；纸牌",
+      "memory": "card → 卡片；纸牌",
+      "match": "card",
+      "example": "Life in space is much different from life on the earth. 太空生活与地球上的生活很不一样。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-013",
+      "word": "listen",
+      "speak": "listen",
+      "phonetic": "/ˈlɪsn/",
+      "meaning": "听",
+      "memory": "listen → 听",
+      "match": "listen",
+      "example": "Astronauts can read books, play cards, listen to music or send emails to their friends and families when they aren't working. 宇航员不工作时，可以读书、打牌、听音乐，或给朋友和家人发电子邮件。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-014",
+      "word": "music",
+      "speak": "music",
+      "phonetic": "/ˈmjuːzɪk/",
+      "meaning": "音乐",
+      "memory": "music → 音乐",
+      "match": "music",
+      "example": "Astronauts can read books, play cards, listen to music or send emails to their friends and families when they aren't working. 宇航员不工作时，可以读书、打牌、听音乐，或给朋友和家人发电子邮件。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-015",
+      "word": "send",
+      "speak": "send",
+      "phonetic": "/send/",
+      "meaning": "发送",
+      "memory": "send → 发送",
+      "match": "send",
+      "example": "Astronauts can read books, play cards, listen to music or send emails to their friends and families when they aren't working. 宇航员不工作时，可以读书、打牌、听音乐，或给朋友和家人发电子邮件。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-016",
+      "word": "email",
+      "speak": "email",
+      "phonetic": "/ˈiːmeɪl/",
+      "meaning": "电子邮件",
+      "memory": "email → 电子邮件",
+      "match": "email",
+      "example": "Life in space is much different from life on the earth. 太空生活与地球上的生活很不一样。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-017",
+      "word": "spaceship",
+      "speak": "spaceship",
+      "phonetic": "/ˈspeɪsʃɪp/",
+      "meaning": "宇宙飞船",
+      "memory": "spaceship → 宇宙飞船",
+      "match": "spaceship",
+      "example": "Sometimes they just sit and look out of the spaceship. 有时他们只是坐着向宇宙飞船外看。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-018",
+      "word": "hard-working",
+      "speak": "hard-working",
+      "phonetic": "/ˌhɑːd ˈwɜːkɪŋ/",
+      "meaning": "勤奋的",
+      "memory": "hard-working → 勤奋的",
+      "match": "hard-working",
+      "example": "Astronauts are hard-working whether in space or on the earth. 无论在太空还是在地球上，宇航员都很勤奋。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-019",
+      "word": "whether",
+      "speak": "whether",
+      "phonetic": "/ˈweðə(r)/",
+      "meaning": "是否；不管",
+      "memory": "whether → 是否；不管",
+      "match": "whether",
+      "example": "Astronauts are hard-working whether in space or on the earth. 无论在太空还是在地球上，宇航员都很勤奋。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-020",
+      "word": "though",
+      "speak": "though",
+      "phonetic": "/ðəʊ/",
+      "meaning": "虽然",
+      "memory": "though → 虽然",
+      "match": "though",
+      "example": "Though the work is sometimes difficult, they are still interested in it and love their jobs. 虽然工作有时很困难，但他们仍然对它感兴趣并热爱自己的工作。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-021",
+      "word": "interested",
+      "speak": "interested",
+      "phonetic": "/ˈɪntrəstɪd/",
+      "meaning": "感兴趣的",
+      "memory": "interested → 感兴趣的",
+      "match": "interested",
+      "example": "Though the work is sometimes difficult, they are still interested in it and love their jobs. 虽然工作有时很困难，但他们仍然对它感兴趣并热爱自己的工作。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-022",
+      "word": "agree",
+      "speak": "agree",
+      "phonetic": "/əˈɡriː/",
+      "meaning": "同意",
+      "memory": "agree → 同意",
+      "match": "agree",
+      "example": "Many people agree that astronauts' lives are very interesting and they dream of becoming astronauts. 许多人同意宇航员的生活非常有趣，他们梦想成为宇航员。",
+      "note": "先听发音，再跟着句子读一遍。"
+    },
+    {
+      "id": "core-023",
+      "word": "dream",
+      "speak": "dream",
+      "phonetic": "/driːm/",
+      "meaning": "梦想",
+      "memory": "dream → 梦想",
+      "match": "dream",
+      "example": "Many people agree that astronauts' lives are very interesting and they dream of becoming astronauts. 许多人同意宇航员的生活非常有趣，他们梦想成为宇航员。",
+      "note": "先听发音，再跟着句子读一遍。"
+    }
+  ],
+  "coreWords": [
+    {
+      "word": "ago",
+      "phonetic": "/əˈɡəʊ/",
+      "meaning": "以前"
+    },
+    {
+      "word": "piece",
+      "phonetic": "/piːs/",
+      "meaning": "片；块"
+    },
+    {
+      "word": "dry",
+      "phonetic": "/draɪ/",
+      "meaning": "干的"
+    },
+    {
+      "word": "able",
+      "phonetic": "/ˈeɪbl/",
+      "meaning": "能够的"
+    },
+    {
+      "word": "everyday",
+      "phonetic": "/ˈevrideɪ/",
+      "meaning": "日常的"
+    },
+    {
+      "word": "ice cream",
+      "phonetic": "/ˌaɪs ˈkriːm/",
+      "meaning": "冰激凌"
+    },
+    {
+      "word": "own",
+      "phonetic": "/əʊn/",
+      "meaning": "自己的"
+    },
+    {
+      "word": "tie",
+      "phonetic": "/taɪ/",
+      "meaning": "系；绑"
+    },
+    {
+      "word": "themselves",
+      "phonetic": "/ðəmˈselvz/",
+      "meaning": "他们自己"
+    },
+    {
+      "word": "toilet",
+      "phonetic": "/ˈtɔɪlət/",
+      "meaning": "马桶；厕所"
+    },
+    {
+      "word": "bad",
+      "phonetic": "/bæd/",
+      "meaning": "坏的"
+    },
+    {
+      "word": "card",
+      "phonetic": "/kɑːd/",
+      "meaning": "卡片；纸牌"
+    },
+    {
+      "word": "listen",
+      "phonetic": "/ˈlɪsn/",
+      "meaning": "听"
+    },
+    {
+      "word": "music",
+      "phonetic": "/ˈmjuːzɪk/",
+      "meaning": "音乐"
+    },
+    {
+      "word": "send",
+      "phonetic": "/send/",
+      "meaning": "发送"
+    },
+    {
+      "word": "email",
+      "phonetic": "/ˈiːmeɪl/",
+      "meaning": "电子邮件"
+    },
+    {
+      "word": "spaceship",
+      "phonetic": "/ˈspeɪsʃɪp/",
+      "meaning": "宇宙飞船"
+    },
+    {
+      "word": "hard-working",
+      "phonetic": "/ˌhɑːd ˈwɜːkɪŋ/",
+      "meaning": "勤奋的"
+    },
+    {
+      "word": "whether",
+      "phonetic": "/ˈweðə(r)/",
+      "meaning": "是否；不管"
+    },
+    {
+      "word": "though",
+      "phonetic": "/ðəʊ/",
+      "meaning": "虽然"
+    },
+    {
+      "word": "interested",
+      "phonetic": "/ˈɪntrəstɪd/",
+      "meaning": "感兴趣的"
+    },
+    {
+      "word": "agree",
+      "phonetic": "/əˈɡriː/",
+      "meaning": "同意"
+    },
+    {
+      "word": "dream",
+      "phonetic": "/driːm/",
+      "meaning": "梦想"
+    }
+  ]
+}
