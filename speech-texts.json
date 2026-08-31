@@ -1,74 +1,162 @@
 {
-  "voice": "adult male | teacher clear",
-  "reference": "12-adult-male-teacher-clear.wav",
-  "cfg_value": 1.35,
-  "inference_timesteps": 12,
+  "voice": "温暖自然英式女老师｜IndexTTS2.5 慢速教学",
+  "reference": "/Users/zhaozixu/Applications/IndexTTS-2.5/presets/british_teacher/reference_slow.wav",
+  "cfg_value": 1.6,
+  "inference_timesteps": 10,
   "normalize": false,
   "pages": [
     {
       "page": 0,
       "visible": "Life in Space",
-      "speech": "Life in Space"
+      "speech": "Life in Space",
+      "file": "sentences/page-00.mp3",
+      "duration_seconds": 3.053,
+      "raw_duration_seconds": 1.44,
+      "asr": "Life in space.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 1,
       "visible": "Life in space is much different from life on the earth.",
-      "speech": "Life in space is much different from life on the earth."
+      "speech": "Life in space is much different from life on the earth.",
+      "file": "sentences/page-01.mp3",
+      "duration_seconds": 6.548,
+      "raw_duration_seconds": 2.72,
+      "asr": "Life in space is much different from life on the Earth.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 2,
       "visible": "How do astronauts live in space?",
-      "speech": "How do astronauts live in space?"
+      "speech": "How do astronauts live in space?",
+      "file": "sentences/page-02.mp3",
+      "duration_seconds": 4.656,
+      "raw_duration_seconds": 2.4,
+      "asr": "How do astronauts live in space?",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 3,
       "visible": "Many years ago, astronauts could eat only small pieces of dried food.",
-      "speech": "Many years ago, astronauts could eat only small pieces of dried food."
+      "speech": "Many years ago, astronauts could eat only small pieces of dried food.",
+      "file": "sentences/page-03.mp3",
+      "duration_seconds": 7.442,
+      "raw_duration_seconds": 4.64,
+      "asr": "Many years ago, astronauts could eat only small pieces of dried food.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 4,
       "visible": "But now astronauts are able to eat more everyday food like fruit, vegetables and ice cream.",
-      "speech": "But now astronauts are able to eat more everyday food like fruit, vegetables and ice cream."
+      "speech": "But now astronauts are able to eat more everyday food like fruit, vegetables and ice cream.",
+      "file": "sentences/page-04.mp3",
+      "duration_seconds": 9.706,
+      "raw_duration_seconds": 6.08,
+      "asr": "But now astronauts are able to eat more everyday food like fruit, vegetables, and ice cream.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 5,
       "visible": "All the people in space have their own rooms.",
-      "speech": "All the people in space have their own rooms."
+      "speech": "All the people in space have their own rooms.",
+      "file": "sentences/page-05.mp3",
+      "duration_seconds": 5.132,
+      "raw_duration_seconds": 2.4,
+      "asr": "All the people in space have their own rooms.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 6,
       "visible": "They have to tie themselves to their beds or toilets, or they'll fly away!",
-      "speech": "They have to tie themselves to their beds or toilets, or they'll fly away!"
+      "speech": "They have to tie themselves to their beds or toilets, or they'll fly away!",
+      "file": "sentences/page-06.mp3",
+      "duration_seconds": 7.349,
+      "raw_duration_seconds": 4.32,
+      "asr": "They have to tie themselves to their beds or toilets, or they'll fly away.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 7,
       "visible": "That seems like a strange way to sleep, but astronauts say it really isn't too bad.",
-      "speech": "That seems like a strange way to sleep, but astronauts say it really isn't too bad."
+      "speech": "That seems like a strange way to sleep, but astronauts say it really isn't too bad.",
+      "file": "sentences/page-07.mp3",
+      "duration_seconds": 8.858,
+      "raw_duration_seconds": 4.8,
+      "asr": "That seems like a strange way to sleep, but astronauts say it really isn't too bad.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 8,
       "visible": "Astronauts can read books, play cards, listen to music or send emails to their friends and families when they aren't working.",
-      "speech": "Astronauts can read books, play cards, listen to music or send emails to their friends and families when they aren't working."
+      "speech": "Astronauts can read books, play cards, listen to music or send emails to their friends and families when they aren't working.",
+      "file": "sentences/page-08.mp3",
+      "duration_seconds": 10.832,
+      "raw_duration_seconds": 6.88,
+      "asr": "Astronauts can read books, play cards, listen to music, or send emails to their friends and families when they aren't working.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 9,
       "visible": "Sometimes they just sit and look out of the spaceship.",
-      "speech": "Sometimes they just sit and look out of the spaceship."
+      "speech": "Sometimes they just sit and look out of the spaceship.",
+      "file": "sentences/page-09.mp3",
+      "duration_seconds": 5.933,
+      "raw_duration_seconds": 3.04,
+      "asr": "Sometimes they just sit and look out of the spaceship.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 10,
       "visible": "Astronauts are hard-working whether in space or on the earth.",
-      "speech": "Astronauts are hard-working whether in space or on the earth."
+      "speech": "Astronauts are hard-working whether in space or on the earth.",
+      "file": "sentences/page-10.mp3",
+      "duration_seconds": 5.933,
+      "raw_duration_seconds": 3.52,
+      "asr": "Astronauts are hard-working whether in space or on the Earth.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 11,
       "visible": "Though the work is sometimes difficult, they are still interested in it and love their jobs.",
-      "speech": "Though the work is sometimes difficult, they are still interested in it and love their jobs."
+      "speech": "Though the work is sometimes difficult, they are still interested in it and love their jobs.",
+      "file": "sentences/page-11.mp3",
+      "duration_seconds": 8.197,
+      "raw_duration_seconds": 4.96,
+      "asr": "Though the work is sometimes difficult, they are still interested in it and love their jobs.",
+      "asr_exact": true,
+      "needs_manual_review": false
     },
     {
       "page": 12,
       "visible": "Many people agree that astronauts' lives are very interesting and they dream of becoming astronauts.",
-      "speech": "Many people agree that astronauts' lives are very interesting and they dream of becoming astronauts."
+      "speech": "Many people agree that astronauts' lives are very interesting and they dream of becoming astronauts.",
+      "file": "sentences/page-12.mp3",
+      "duration_seconds": 10.646,
+      "raw_duration_seconds": 5.6,
+      "asr": "Many people agree that astronauts' lives are very interesting and they dream of becoming astronauts.",
+      "asr_exact": true,
+      "needs_manual_review": false
     }
-  ]
+  ],
+  "model": "IndexTeam/IndexTTS-2.5",
+  "post_atempo": null,
+  "method": "fixed British reference cloned sentence by sentence with IndexTTS2.5; native 1.18 duration factor; strict local ASR; capped Rubber Band R3 alignment; two-pass loudness normalization",
+  "qa": {
+    "sentence_count": 13,
+    "asr_exact_count": 13,
+    "manual_review_pages": [],
+    "all_files_decode": true,
+    "checksums_verified": true
+  }
 }
